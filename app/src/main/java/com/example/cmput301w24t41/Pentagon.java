@@ -1,4 +1,4 @@
 public class Pentagon extends Shape{
-    String color = "blue";
+    String color = "Dark Blue";
     
 }
